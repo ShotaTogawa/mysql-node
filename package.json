@@ -1,0 +1,23 @@
+{
+  "name": "node_mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShotaTogawa/mysql-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShotaTogawa/mysql-node/issues"
+  },
+  "homepage": "https://github.com/ShotaTogawa/mysql-node#readme",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "mysql": "^2.18.1"
+  }
+}
